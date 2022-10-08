@@ -1,4 +1,4 @@
-# Spotify NextAuth.js Token Rotation
+# Spotify NextAuth Token Rotation
 This repository expands the [NextAuth.js Refresh Token Rotation example](https://github.com/nextauthjs/next-auth-refresh-token-example) to Spotify OAuth 2.0.
 
 ## Setup
